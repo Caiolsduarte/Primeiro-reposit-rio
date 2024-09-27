@@ -1,6 +1,9 @@
 ## Curso git e github!
 
 
+## Estudar transforma vidas!
+
+
 Repositório para armazenar resumos sobre git e github do
 curso Versionamento de código com git e github da 
 [Digital Innovation One](https://www.dio.me/)
